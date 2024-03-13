@@ -12,3 +12,4 @@ C:\GeekBrains\Introduction to programming languages\lesson_1\Task1\obj\Debug\net
 C:\GeekBrains\Introduction to programming languages\lesson_1\Task1\obj\Debug\net8.0\Task1.pdb
 C:\GeekBrains\Introduction to programming languages\lesson_1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\GeekBrains\Introduction to programming languages\lesson_1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\GeekBrains\Introduction to programming languages\lesson_1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
